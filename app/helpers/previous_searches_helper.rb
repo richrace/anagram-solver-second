@@ -1,0 +1,2 @@
+module PreviousSearchesHelper
+end
