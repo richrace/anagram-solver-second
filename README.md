@@ -1,10 +1,15 @@
-Simple Anagram Solver built using Rails.
+Anagram Solver
+==============
+
+Simple Anagram Solver built using Rails. This a second attempt at it using feedback from the first attempt I did (https://github.com/richrace/anagram-solver-first)
 
 [![Build Status](https://secure.travis-ci.org/richrace/anagram-solver-second.png)](http://travis-ci.org/richrace/anagram-solver-second/)
 
-Start the server 
+To run the application: 
     
-    rails s
+    bundle
+    rake db:setup
+    rails server
 
 Go to 
 
